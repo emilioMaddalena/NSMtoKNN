@@ -1,7 +1,7 @@
 % Supplementary material for the paper 'NSM Converges to a k-NN Regressor 
 % Under Loose Lipschitz Estimates' by E. T. Maddalena and C. N. Jones
 
-% Bivariate example
+% Univariate example
 clear all; clc
 close all
 rng(3); 
