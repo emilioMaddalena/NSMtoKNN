@@ -1,5 +1,5 @@
 # NSMtoKNN
 
-This code is part of the paper 'NSM Converges to a k-NN Regressor UnderLoose Lipschitz Estimates (2020)' by Emilio T. Maddalena and Colin N. Jones, accepted for publication at the Control Systems Letters (LCC-S) journal.
+This code is the supplementary material for the paper **NSM Converges to a k-NN Regressor UnderLoose Lipschitz Estimates** by Emilio T. Maddalena and Colin N. Jones, published in the IEEE Control Systems Letters, Volume 4, Issue 4, Oct. 2020.
 
-It contains the example given on the manuscript and an additional one showing the monotonic converge in the case of univariate models.
+It contains two MATLAB examples that illustrate the convergence of Nonlinear Set Membership models to the Nearest Neighbor one, including an univariate case where this process is guaranteed to be monotonic.
