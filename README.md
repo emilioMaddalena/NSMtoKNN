@@ -5,4 +5,4 @@ This code is the supplementary material for the paper **NSM Converges to a k-NN 
 It contains two MATLAB examples that illustrate the convergence of Nonlinear Set Membership models to the Nearest Neighbor ones, including an univariate case study where this process is guaranteed to be monotonic.
 
 
-![alt text](https://github.com/emilioMaddalena/NSMtoKNN/blob/master/cool.png)
+![alt text](https://github.com/emilioMaddalena/NSMtoKNN/blob/master/coolSurface.png)
