@@ -15,7 +15,10 @@ This code is the supplementary material for the paper
 }
 ```
 
-It contains two MATLAB examples that illustrate the convergence of Nonlinear Set Membership models to the Nearest Neighbor ones.
+## Summary :books:
 
+Nonlinear Set Membership (NSM) models are non-parametric regressors built based on a Lipschitz constant estimate of the ground-truth, data-generating process. Estimating such constant with precision can be challenging in many real-world situations, and practitioners can be tempted to use loose estimates instead. 
+
+In this paper we show how NSM converges to a Nearest Neighbor map, a simple reproduction of the closest data-point value, under loose Lipschitz estimates. The repository contains two MATLAB examples that illustrate this convergence process.
 
 ![alt text](https://github.com/emilioMaddalena/NSMtoKNN/blob/master/coolSurface.png)
